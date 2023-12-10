@@ -1,0 +1,1 @@
+print('String Manupulation Exercise\nString Concatenation is done with "+" Sign\ne.g. print("Hello" + "Jenny")\nNew lines can be created with a backslash and n')
